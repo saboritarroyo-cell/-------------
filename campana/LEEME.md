@@ -7,3 +7,8 @@
 - `rebotes.txt`: direcciones que rebotaron.
 
 Plantilla: asunto "Reseñas de Google en {nombre}", mismo cuerpo que la campaña original (firma Joan / Toquea).
+- `enviados_dia2.txt`: 151 enviados el 3 oct 2026 (todo pendientes.csv). Campaña de 301 completada.
+
+## Respuestas (a 3 oct)
+- Interesados (piden el vídeo): PradoVet (cvpradovet@gmail.com), Clínica Dental María Victoria (clinicamariavictoria@gmail.com).
+- No interesado: Clínica Veterinaria Murcia Norte (veterinariomurcia@gmail.com) — no volver a contactar.
